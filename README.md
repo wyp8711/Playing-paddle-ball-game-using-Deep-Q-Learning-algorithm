@@ -5,7 +5,7 @@
 # Reference source
 https://github.com/azhar2205/paddle-ball-using-dqlearn
 
-https://github.com/azhar2205/paddle-ball-using-dqlearn
+http://edersantana.github.io/articles/keras_rl/
 
 Thank azhar2205 who posted code on GitHub.
 
