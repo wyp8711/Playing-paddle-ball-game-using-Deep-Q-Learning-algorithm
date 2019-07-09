@@ -5,9 +5,9 @@
 # Reference source
 https://gist.github.com/EderSantana/c7222daa328f0e885093
 
-http://edersantana.github.io/articles/keras_rl/
+https://github.com/azhar2205/paddle-ball-using-dqlearn
 
-Thank EderSantana who posted code on GitHub.
+Thank azhar2205 who posted code on GitHub.
 
 I changed the reward value and tested training model, it's more effective for training.
 
