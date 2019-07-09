@@ -22,3 +22,5 @@ https://youtu.be/0N6VUMZLGzA
 1.Run "train_paddle_ball.py"
 
 2.Run "test_paddle_ball.py"
+
+There is a backup final model in Folder"Final model".
