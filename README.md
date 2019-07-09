@@ -3,7 +3,7 @@
 # date: 2019.07.09
 
 # Reference source
-https://gist.github.com/EderSantana/c7222daa328f0e885093
+https://github.com/azhar2205/paddle-ball-using-dqlearn
 
 https://github.com/azhar2205/paddle-ball-using-dqlearn
 
